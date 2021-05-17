@@ -12,30 +12,30 @@ img{
 	max-width: 100%;
 }
 
-.container{
+.címsor{
 	width: 80%;
 	margin: auto;
 	overflow: hidden;
 }
 
-.container a{
+.címsor a{
 	float: right;
 	margin: .35rem .2rem;
 }
 
-#main-header{
+#fejléc{
 	background-image:  url('../images/header2.jpg');
 	background-size: cover;
 	color: #F5F5DC;
 }
-#main-header h2{
+#fejléc h2{
 	color: #DEB887;
 }
 
 
 
 
-.navbar{
+.navigáció{
 	overflow: hidden;
 	display: block;
 	padding: 0.2rem 1rem;
@@ -66,16 +66,16 @@ img{
 	float: right;
 }
 
-#navbar ul{
+#navigáció ul{
 	padding: 0spx;
 	list-style: none;
 }
 
-#navbar li{
+#navigáció li{
 	display: inline;
 }
 
-#navbar a{
+#navigáció a{
 	float: left;
 	display: block;
 	color: #DC143C;
