@@ -1,5 +1,6 @@
 body{
 	background-image: url('../images/háttér.jpg');
+	background-size: cover;
 	color: #555;
 	font-family: Courier New, Helvetica, sans-serif;
 	font-size: 16px;
@@ -24,6 +25,7 @@ img{
 
 #main-header{
 	background-image:  url('../images/header2.jpg');
+	background-size: cover;
 	color: #F5F5DC;
 }
 #main-header h2{
