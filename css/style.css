@@ -54,7 +54,7 @@ img{
 	padding: 0.5rem 1rem;
 	margin: .35rem .2rem;
 	border-radius: 0.5rem;
-	transition: .3s;
+	transition: 0.3s;
 	min-width: max-content;
 	opacity: 1;
 }
