@@ -123,6 +123,12 @@ img{
 	font-weight: 540;
 }
 
+#szoveg a{
+	color: #FFE4E1;
+	letter-spacing: 3.5px;
+	font-size: 1.6rem;
+	font-weight: 400;
+}
 
 #kep img{
 	display: block;
